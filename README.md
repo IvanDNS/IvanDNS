@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**IvanDNS/IvanDNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo](https://i.imgur.com/YkeO2dT.jpeg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ¡Hola! Soy Iván 👋  
+
+**Iván Daniel Negrete Sudy**  
+✨ Me defino como alguien con **curiosidad constante**, que disfruta superar desafíos y construir proyectos que unan lo práctico con lo **creativo.**
+
+
+
+---
+
+- 👨‍💻 Ingeniero en Informática y **Desarrollador de Software** en **Alpa Ambiente S.A.**  
+- 💼 Experiencia previa en **HN Seguros** y **Mapfre Chile**  
+- 🌍 Desde **Chile 🇨🇱**  
+ 
+- 🌱 Actualmente aprendiendo **Angular**  
+- 🔧 Proyectos destacados:  
+  - [**Trinity Pool**](https://trinitypool.netlify.app) 🎱 — Registro y estadísticas de pool en tiempo real con Firebase  
+  - [**Portafolio**](https://ivandns.me) 🌐 — Portafolio Personal — Pequeña muestra de proyectos y habilidades en desarrollo de software, de manera breve y vistosa.
+
+  
+
+---
+
+
+---
+
+## 🛠 Skills
+- 🚀 Tech stack principal:  
+  - **Backend:** PHP, Laravel, SQL Server  
+  - **Frontend:** Tailwind CSS, Astro, JavaScript, HTML, CSS  
+  - **Base de datos:** SQL Server, Firebase Realtime Database  
+  - **Otros:** Git, Gitflow, Excel avanzado 
+## [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivannegretes/)  
+
+
