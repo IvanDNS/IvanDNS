@@ -1,5 +1,5 @@
 
-![Logo](https://i.imgur.com/YkeO2dT.jpeg)
+![Logo](https://i.imgur.com/VvNopnN.jpeg)
 
 
 # ¡Hola! Soy Iván 👋  
